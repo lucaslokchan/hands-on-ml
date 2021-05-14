@@ -1,1 +1,1 @@
-# Machine Learning Learning Journal
+# Machine Learning Journal
