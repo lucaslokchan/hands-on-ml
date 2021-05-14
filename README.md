@@ -1,1 +1,1 @@
-# hands-on-ml
+# Machine Learning Learning Journal
