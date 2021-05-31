@@ -7,5 +7,5 @@ Here is What I Learned!
 * Classification
 
 # Projects
-[Titanic - Machine Learning from Disaster](Projects/Titanic/Titanic_Machine_Learning_from_Disaster.ipynb) - 25/05/2021 - 31/05/2021
+[Titanic - Machine Learning from Disaster](Projects/Titanic) - 25/05/2021 - 31/05/2021
 
