@@ -7,5 +7,5 @@ Here is What I Learned!
 * Classification
 
 # Projects
-[Titanic - Machine Learning from Disaster](Projects/Titanic) - WIP
+[Titanic - Machine Learning from Disaster](Projects/Titanic) - 25/05/2021 - 31/05/2021
 
