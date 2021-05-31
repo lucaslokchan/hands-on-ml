@@ -7,6 +7,5 @@ Here is What I Learned!
 * Classification
 
 # Projects
-[Titanic - Machine Learning from Disaster](https://github.com/lucaslokchan/ml-journal/blob/master/Projects/Titanic/Titanic_Machine_Learning_from_Disaster.ipynb) - WIP
+[Titanic - Machine Learning from Disaster](Projects/Titanic) - WIP
 
-[123](Projects/Titanic)
