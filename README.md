@@ -9,3 +9,4 @@ Here is What I Learned!
 # Projects
 [Titanic - Machine Learning from Disaster](https://github.com/lucaslokchan/ml-journal/blob/master/Projects/Titanic/Titanic_Machine_Learning_from_Disaster.ipynb) - WIP
 
+[123](Projects/Titanic)
