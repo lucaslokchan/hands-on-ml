@@ -1,4 +1,5 @@
-# Notes for Hands-On Machine Learning by Aurélien Géron
+# Hands-On Machine Learning 
+by Aurélien Géron
 
 Chapter   | Topic | Keywords | Link
 :---: | :--- | :---: | :---:
@@ -15,6 +16,30 @@ Chapter   | Topic | Keywords | Link
 11 | Training Deep Neural Networks | | [Link](Hands-On%20Machine%20Learning/11_Training_Deep_Neural_Networks.ipynb)
 12 | Custom Models and Training with TensorFlow | | [Link](Hands-On%20Machine%20Learning/12_Custom_Models_and_Training_with_TensorFlow.ipynb)
 13 | Loading and Preprocessing Data with TensorFlow | | [Link](Hands-On%20Machine%20Learning/13_Loading_and_Preprocessing_Data_with_TensorFlow.ipynb)
+
+## Chapter 1: The Machine Learning Landscape
+### Whats Is Machine Learning?
+* Machine Learning is the field of study that gives computers the ability to learn without being explicitly programmed
+* A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with        experience E
+### Types of Machine Learning Systems
+* Supervised learning
+* Unsupervised learning
+* Semisupervised learning
+
+## Chapter 2: End-to-End Machine Learning Project
+### Steps Taken in the Example Project
+* Look at the big picture.
+* Get the data.
+* Discover and visualize the data to gain insights.
+* Prepare the data for Machine Learning algorithms.
+* Select a model and train it.
+* Fine-tune your model.
+* Present your solution.
+* Launch, monitor, and maintain your system
+
+## Chapter 3: Classification
+### Confusion Matrix
+
 
 # Projects
 [Titanic - Machine Learning from Disaster](Projects/Titanic)
