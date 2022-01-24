@@ -29,4 +29,9 @@ The Objective of this Project is to Build and Train a CNN Model to Recgonize Cha
 
 ![image](Split2.png)
  
-
+## Result
+![Image](Result1.png)
+![Image](Result2.png)
+![Image](Result3.png)
+![Image](Result4.png)
+![Image](Result5.png)
