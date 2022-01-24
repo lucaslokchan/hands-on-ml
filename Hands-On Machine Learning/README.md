@@ -47,11 +47,6 @@ Chapter   | Topic
 ### Confusion Matrix
 
 
-# Projects
-[Titanic - Machine Learning from Disaster](Projects/Titanic)
-
-[WIP - Stock Price Prediction](Projects/Stock%20Price%20Prediction)
-
 
 
 
