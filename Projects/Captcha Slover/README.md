@@ -16,7 +16,7 @@ The Objective of this Project is to Build and Train a CNN Model to Recgonize Cha
 * Custom Build CNN Model ✔️
 * Tensorboard Basics ✔️
 
-## Evulation
+## Evaluation
 
 * Learn How to Tweak a CNN Model Since I Don't Know what Layers to Use While Building the Model
   * I Referred to Examples in [Chapter 14](../../Hands-On%20Machine%20Learning/14_Deep_Computer_Vision_Using_Convolutional_Neural_Networks.ipynb) in Hands on Machine Learning while Building the Model
